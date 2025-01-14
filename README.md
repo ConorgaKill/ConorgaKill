@@ -5,7 +5,7 @@ Conor Deegan
 
 About Me:
 
-I'm currently pursuing a Higher Diploma in Science focusing on Software Development at ATU Galway Mayo and hold a Bachelor of Arts in Geography from Maynooth University. I specialise in object-oriented programming, web and mobile application development, and Agile methodologies. My professional journey includes significant experience in SQL, GIS, and DevOps practices, enriched with a robust analytical background in geographic analysis and data management. I am passionate about leveraging technology to solve environmental challenges, enhance software development processes, and improve user experiences in tech-driven environments.
+I'm currently pursuing a Higher Diploma in Science focusing on Software Development at Atlantic Technological University and hold a Bachelor of Arts in Geography from Maynooth University. I specialise in object-oriented programming, web and mobile application development, and Agile methodologies. My professional journey includes significant experience in SQL, GIS, and DevOps practices, enriched with a robust analytical background in geographic analysis and data management. I am passionate about us ustilising technology to solve environmental challenges, enhance software development processes, and improve user experiences in tech-driven environments.
 
 Skills:
 
@@ -31,4 +31,6 @@ ATU Galway Mayo | Ongoing
 - Bachelor of Arts in Geography
 Maynooth University | 2022
 
-Pinned Repositories
+Pinned Repositories:
+- (https://github.com/ConorgaKill/ChatApp) - A real-time chat application designed to enable seamless communication across the web. Built using Node.js with WebSockets for dynamic user interactions.
+- (https://github.com/ConorgaKill/countryweather - Interactive web application providing real-time and historical weather data for countries worldwide. Demonstrates expert API integration and front-end development using JavaScript and React.
