@@ -1,16 +1,34 @@
-## Hi there 👋
+Conor Deegan
+📍 Bijou Knocktemple, Virginia, Co. Cavan, A82N7D5
 
-<!--
-**ConorgaKill/ConorgaKill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📧 conordeegan111@gmail.com | 📞 083 803 6824
 
-Here are some ideas to get you started:
+About Me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently pursuing a Higher Diploma in Science focusing on Software Development at ATU Galway Mayo and hold a Bachelor of Arts in Geography from Maynooth University. I specialise in object-oriented programming, web and mobile application development, and Agile methodologies. My professional journey includes significant experience in SQL, GIS, and DevOps practices, enriched with a robust analytical background in geographic analysis and data management. I am passionate about leveraging technology to solve environmental challenges, enhance software development processes, and improve user experiences in tech-driven environments.
+
+Skills:
+
+- Software Development: Proficient in object-oriented programming, web, and mobile app development.
+- Network Applications: Skilled in Java for network-based application development.
+- DevOps & Cloud Computing: Practical understanding of DevOps principles with exposure to AWS.
+- GIS & Spatial Analysis: Experienced with ArcGIS Pro for complex spatial analyses.
+- Data Management and Analysis: Competent with SQL databases and data-driven decision-making.
+- Agile Practices: Experienced in Agile project cycles, including sprint planning and iterative development.
+
+Professional Experience:
+
+- Result Satisfaction Analyst, Telus International
+Analysed web-based data, ensuring accurate results based on specified guidelines.
+
+- Retail Assistant, EuroSpar Hartstown, Dublin
+Managed stock and ensured superior customer service in a fast-paced retail setting.
+
+Education:
+- Higher Diploma in Science - Computing (Software Development)
+ATU Galway Mayo | Ongoing
+
+- Bachelor of Arts in Geography
+Maynooth University | 2022
+
+Pinned Repositories
