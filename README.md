@@ -26,7 +26,7 @@ Managed stock and ensured superior customer service in a fast-paced retail setti
 
 Education:
 - Higher Diploma in Science - Computing (Software Development)
-ATU Galway Mayo | Ongoing
+Atlantic Technological University | Ongoing
 
 - Bachelor of Arts in Geography
 Maynooth University | 2022
